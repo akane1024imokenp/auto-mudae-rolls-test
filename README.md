@@ -9,7 +9,7 @@ first you need to get your discord token.
 use this extension, log in your account in the web and open the extension to get your discord token:
 https://chromewebstore.google.com/detail/discord-get-user-token/accgjfooejbpdchkfpngkjjdekkcbnfd?hl=pt-BR
 
-after that youll need to eneable developer mode on discord on your advanced config tab:
+after that youll need to enable developer mode on discord on your advanced config tab:
 
 ![image](https://github.com/user-attachments/assets/25d7f751-4ecb-4f00-9b7a-12f05c9824f3)
 
